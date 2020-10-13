@@ -1,2 +1,2 @@
-# Android
-存储自己的Android开源项目
+# DevOps
+存储DevOps，CI，CD及研发效能的相关资料。
